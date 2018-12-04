@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/talent-fest-grin/precache-manifest.3225fdf191805d7435a911659df1fecf.js"
+  "/talent-fest-grin/precache-manifest.e70925c9919d54f39b7531d6557c6481.js"
 );
 
 workbox.clientsClaim();

@@ -1,7 +1,7 @@
 {
   "main.css": "/talent-fest-grin/static/css/main.f34a4f4b.chunk.css",
-  "main.js": "/talent-fest-grin/static/js/main.f3ef130f.chunk.js",
-  "main.js.map": "/talent-fest-grin/static/js/main.f3ef130f.chunk.js.map",
+  "main.js": "/talent-fest-grin/static/js/main.48d74a8a.chunk.js",
+  "main.js.map": "/talent-fest-grin/static/js/main.48d74a8a.chunk.js.map",
   "static/js/1.fb393bc4.chunk.js": "/talent-fest-grin/static/js/1.fb393bc4.chunk.js",
   "static/js/1.fb393bc4.chunk.js.map": "/talent-fest-grin/static/js/1.fb393bc4.chunk.js.map",
   "runtime~main.js": "/talent-fest-grin/static/js/runtime~main.68317b97.js",
@@ -10,6 +10,6 @@
   "static/media/pokedeck-icono-circular.svg": "/talent-fest-grin/static/media/pokedeck-icono-circular.7c4aabac.svg",
   "static/media/POKEDECK-NOMBRE.svg": "/talent-fest-grin/static/media/POKEDECK-NOMBRE.c3a5529b.svg",
   "index.html": "/talent-fest-grin/index.html",
-  "precache-manifest.3225fdf191805d7435a911659df1fecf.js": "/talent-fest-grin/precache-manifest.3225fdf191805d7435a911659df1fecf.js",
+  "precache-manifest.e70925c9919d54f39b7531d6557c6481.js": "/talent-fest-grin/precache-manifest.e70925c9919d54f39b7531d6557c6481.js",
   "service-worker.js": "/talent-fest-grin/service-worker.js"
 }

@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/talent-fest-grin/static/js/runtime~main.68317b97.js"
   },
   {
-    "revision": "f3ef130f23689b8a2010",
-    "url": "/talent-fest-grin/static/js/main.f3ef130f.chunk.js"
+    "revision": "48d74a8a82395ca49c54",
+    "url": "/talent-fest-grin/static/js/main.48d74a8a.chunk.js"
   },
   {
     "revision": "fb393bc4d3fa445fb671",
     "url": "/talent-fest-grin/static/js/1.fb393bc4.chunk.js"
   },
   {
-    "revision": "f3ef130f23689b8a2010",
+    "revision": "48d74a8a82395ca49c54",
     "url": "/talent-fest-grin/static/css/main.f34a4f4b.chunk.css"
   },
   {
-    "revision": "73d48f0ff115bff3e9e80e0ae3ec11b0",
+    "revision": "9ff3fe7b134367af0c132ca5e041e59a",
     "url": "/talent-fest-grin/index.html"
   }
 ];
